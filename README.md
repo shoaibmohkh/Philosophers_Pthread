@@ -1,4 +1,3 @@
-Dim readmeText As String = "
 🍝 Philosophers_Pthread — Dining Philosophers Problem Using POSIX Threads (42 Amman Project)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
@@ -82,4 +81,4 @@ Occurs when multiple threads access shared data without synchronization, potenti
 ✔️ No deadlocks  
 ✔️ No data races (confirmed with ThreadSanitizer and valgrind)  
 ✔️ Norm-compliant and memory-safe
-"
+
