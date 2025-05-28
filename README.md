@@ -27,8 +27,7 @@ It simulates philosophers sitting around a table, each alternating between eatin
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
 
 1️⃣ Clone the Repository  
-    git clone :
-        git@github.com:shoaibmohkh/Philosophers_Pthread.git
+    clone...
     cd Philosophers_Pthread
 
 2️⃣ Build the Program  
